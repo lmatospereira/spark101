@@ -1,4 +1,4 @@
-"Ano","Espécie de Benefício","Grupos de Idade Cessação","Sexo","Clientela","Quantidade Benefícios Cessados","Grupo/Principais Espécies"
+"Ano","Especie de Beneficio","Grupos de Idade Cessacao","Sexo","Clientela","Quantidade Beneficios Cessados","Grupo/Principais Especies"
 "1997","Ap Tempo Contribuição Det Ignorado","25 a 29 Anos","Masculino","Urbana","0","Ap Tempo Contrib Det Ignorado"
 "1997","Ap Tempo Contribuição Det Ignorado","25 a 29 Anos","Feminino","Urbana","0","Ap Tempo Contrib Det Ignorado"
 "1997","Ap Tempo Contribuição Det Ignorado","25 a 29 Anos","Ignorado","Urbana","0","Ap Tempo Contrib Det Ignorado"
